@@ -1,6 +1,6 @@
 # Three-Cancer-Detection-models-Colon-Lung-Chest-
 
-This repository contains deep learning models for detecting cancer in colon, chest, and lung tissues using convolutional neural networks (CNNs). The data for lung and colon cancers comes from histopathological images, while chest cancer detection is based on chest X-ray images.
+This computer vision project contains deep learning models for detecting cancer in colon, chest, and lung tissues using convolutional neural networks (CNNs). The data for lung and colon cancers comes from histopathological images, while chest cancer detection is based on chest X-ray images.
 
 ## Contents
 
